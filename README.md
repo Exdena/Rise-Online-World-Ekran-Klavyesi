@@ -12,4 +12,5 @@ On-Screen Keyboard -- OSK() v1.5  By FeiYue codunun değiştirilmiş halidir.
 
 Discord: Exden#9510
 
-https://github.com/Exdena/Rise-Online-World-Ekran-Klavyesi/blob/main/ExdenEkranKlavyesi.jpg
+![alt text](https://github.com/Exdena/Rise-Online-World-Ekran-Klavyesi/blob/main/ExdenEkranKlavyesi.jpg?raw=true)
+
