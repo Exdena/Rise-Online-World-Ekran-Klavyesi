@@ -1,4 +1,4 @@
-# Rise Online World Ekran Klavyesi (OnScreen Keyboard)
+# RiseOnlineWorld Ekran Klavyesi (OnScreen Keyboard)
 
 This is a onscreen keyboard for Rise Online World. 
 
